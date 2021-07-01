@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>BFF&#39;s Blog</title>
+  
+  
+  <link href="https://blog.bufeifan.top/atom.xml" rel="self"/>
+  
+  <link href="https://blog.bufeifan.top/"/>
+  <updated>2021-06-26T14:22:22.000Z</updated>
+  <id>https://blog.bufeifan.top/</id>
+  
+  <author>
+    <name>BFF</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>努力学习，中考加油！</title>
+    <link href="https://blog.bufeifan.top/2021/06/26/Shseeco/"/>
+    <id>https://blog.bufeifan.top/2021/06/26/Shseeco/</id>
+    <published>2021-06-26T14:22:22.000Z</published>
+    <updated>2021-06-26T14:22:22.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;中考加油！！！&quot;&gt;&lt;a href=&quot;#中考加油！！！&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="鸡汤" scheme="https://blog.bufeifan.top/categories/%E9%B8%A1%E6%B1%A4/"/>
+    
+    
+    <category term="学习/study" scheme="https://blog.bufeifan.top/tags/%E5%AD%A6%E4%B9%A0-study/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>机械计算器的一些用法</title>
+    <link href="https://blog.bufeifan.top/2021/06/01/calculator/"/>
+    <id>https://blog.bufeifan.top/2021/06/01/calculator/</id>
+    <published>2021-06-01T03:11:11.000Z</published>
+    <updated>2021-06-01T03:11:11.000Z</updated>
+    
+    
+    <summary type="html">&lt;h1 id=&quot;计算器M-、M-、RM、GT、CE、MU的用法&quot;&gt;&lt;a href=&quot;#计算器M-、M-、RM、GT、CE、MU的用法&quot; class=&quot;headerlink&quot; title=&quot;计算器M+、M-、RM、GT、CE、MU的用法&quot;&gt;&lt;/a&gt;计算器M+、M-、RM、GT、CE、MU的用法&lt;/h1&gt;&lt;blockquote&gt;
+&lt;p&gt;因为普通的计算器的显示屏设计简单，没有括号功能键，也就是不能分辨四则运算的优先顺序，只能从左到右的一级级算，所以计算机的设计者增加了一类功能键来解决这个问题。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;为便于理解后续内容我们先将计算器简单为分&lt;strong&gt;前台（显示屏显示的数字）&lt;/strong&gt;与&lt;strong&gt;后台（看不到的数字）&lt;/strong&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="计算器" scheme="https://blog.bufeifan.top/categories/%E8%AE%A1%E7%AE%97%E5%99%A8/"/>
+    
+    
+    <category term="学习/study" scheme="https://blog.bufeifan.top/tags/%E5%AD%A6%E4%B9%A0-study/"/>
+    
+    <category term="教程/tutorial" scheme="https://blog.bufeifan.top/tags/%E6%95%99%E7%A8%8B-tutorial/"/>
+    
+  </entry>
+  
+</feed>
