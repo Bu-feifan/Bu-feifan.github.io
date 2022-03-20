@@ -69,33 +69,47 @@
 <p>使用愉快~</p>
 </li>
 </ul>
-<h3 id="令牌设置教程："><a href="#令牌设置教程：" class="headerlink" title="令牌设置教程："></a>令牌设置教程：</h3><h5 id="1-登录喜加一网站。"><a href="#1-登录喜加一网站。" class="headerlink" title="1.登录喜加一网站。"></a>1.登录<a href="http://www.51xijiayi.com/#/">喜加一网站</a>。</h5><h5 id="2-进入开发人员工具（开发者工具）"><a href="#2-进入开发人员工具（开发者工具）" class="headerlink" title="2.进入开发人员工具（开发者工具）"></a>2.进入开发人员工具（开发者工具）</h5><p>下列提供3种方法</p>
+<h3 id="令牌设置教程："><a href="#令牌设置教程：" class="headerlink" title="令牌设置教程："></a>令牌设置教程：</h3><p>1.登录<a href="http://www.51xijiayi.com/#/">喜加一网站</a>。</p>
+<p>2.进入开发人员工具（开发者工具）</p>
+<p>  下列提供3种方法</p>
 <ul>
 <li>鼠标右键，选择“检查”选项</li>
 <li>按<code>F12</code>键 (笔记本电脑按住<code>Fn</code>键的同时按下<code>F12</code>键 )</li>
 <li>按 <code>Ctrl+Shift+I</code>（按住<code>Ctrl</code>键的同时按住<code>Shift</code>键，再按下<code>I</code>键）</li>
 </ul>
-<h5 id="3-在弹出的小窗口（以下称为小窗口1）中选择“网络-Network-”模块"><a href="#3-在弹出的小窗口（以下称为小窗口1）中选择“网络-Network-”模块" class="headerlink" title="3.在弹出的小窗口（以下称为小窗口1）中选择“网络(Network)”模块"></a>3.在弹出的小窗口（以下称为小窗口1）中选择“网络(Network)”模块</h5><h5 id="4-刷新页面"><a href="#4-刷新页面" class="headerlink" title="4.刷新页面"></a>4.刷新页面</h5><p>下列提供2种方法</p>
+<p>3.在弹出的小窗口（以下称为小窗口1）中选择“网络(Network)”模块</p>
+<p>4.刷新页面</p>
+<p>  下列提供2种方法</p>
 <ul>
 <li>按<code>F5</code>键 (笔记本电脑按住<code>Fn</code>键的同时按下<code>F5</code>键 )</li>
 <li>按<code>Ctrl+R</code>（按住<code>Ctrl</code>键的同时按下<code>R</code>键 ）</li>
 </ul>
-<h5 id="5-在小窗口1中选择“Fetch-XHR”（一般在“筛选器”下方）"><a href="#5-在小窗口1中选择“Fetch-XHR”（一般在“筛选器”下方）" class="headerlink" title="5.在小窗口1中选择“Fetch/XHR”（一般在“筛选器”下方）"></a>5.在小窗口1中选择“Fetch/XHR”（一般在“筛选器”下方）</h5><h5 id="6-在小窗口1中的表格找到“名称-Name-Pat-”一列"><a href="#6-在小窗口1中的表格找到“名称-Name-Pat-”一列" class="headerlink" title="6.在小窗口1中的表格找到“名称(Name/Pat)”一列"></a>6.在小窗口1中的表格找到“名称(Name/Pat)”一列</h5><h5 id="7-在小窗口1中的表格中找到“ViewUser”一行并单击"><a href="#7-在小窗口1中的表格中找到“ViewUser”一行并单击" class="headerlink" title="7.在小窗口1中的表格中找到“ViewUser”一行并单击"></a>7.在小窗口1中的表格中找到“ViewUser”一行并单击</h5><blockquote>
-<p>（提示：可滑动鼠标滚轮上下滑动查找，一般是第四个）</p>
+<p>5.在小窗口1中选择“Fetch/XHR”（一般在“筛选器”下方）</p>
+<p>6.在小窗口1中的表格找到“名称(Name/Pat)”一列</p>
+<p>7.在小窗口1中的表格中找到“ViewUser”一行并单击</p>
+<blockquote>
+<p>（提示：可滚动鼠标滚轮上下滑动查找，一般是第四个）</p>
 </blockquote>
-<h5 id="8-在进一步弹出的小窗口（以下称为小窗口2）中选择“标头-Headers-”"><a href="#8-在进一步弹出的小窗口（以下称为小窗口2）中选择“标头-Headers-”" class="headerlink" title="8.在进一步弹出的小窗口（以下称为小窗口2）中选择“标头(Headers)”"></a>8.在进一步弹出的小窗口（以下称为小窗口2）中选择“标头(Headers)”</h5><h5 id="9-在小窗口2中找到“表单数据-Form-Data-”"><a href="#9-在小窗口2中找到“表单数据-Form-Data-”" class="headerlink" title="9.在小窗口2中找到“表单数据(Form Data)”"></a>9.在小窗口2中找到“表单数据(Form Data)”</h5><blockquote>
-<p>（提示：可滑动鼠标滚轮上下滑动查找，一般在最底下）</p>
+<p>8.在进一步弹出的小窗口（以下称为小窗口2）中选择“标头(Headers)”</p>
+<p>9.在小窗口2中找到“表单数据(Form Data)”</p>
+<blockquote>
+<p>（提示：可滚动鼠标滚轮上下滑动查找，一般在最底下）</p>
 </blockquote>
-<h5 id="10-此时小窗口2可能会形如下列两种情况，一般是第一种"><a href="#10-此时小窗口2可能会形如下列两种情况，一般是第一种" class="headerlink" title="10.此时小窗口2可能会形如下列两种情况，一般是第一种"></a>10.此时小窗口2可能会形如下列两种情况，一般是第一种</h5><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">clientType: web</span><br><span class="line">Version: &quot;1&quot;</span><br><span class="line">jsonPara: &#123;&quot;token&quot;:&quot;1a2b3c4d5e6f7g8h9i10j11k12l13m14n15o16p1&quot;&#125;</span><br></pre></td></tr></table></figure>
+<p>10.此时小窗口2可能会形如下列两种情况，一般是第一种</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">clientType: web</span><br><span class="line">Version: &quot;1&quot;</span><br><span class="line">jsonPara: &#123;&quot;token&quot;:&quot;1a2b3c4d5e6f7g8h9i10j11k12l13m14n15o16p1&quot;&#125;</span><br></pre></td></tr></table></figure>
 
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">clientType=web&amp;Version=&quot;1&quot;&amp;jsonPara=&#123;&quot;token&quot;:&quot;1a2b3c4d5e6f7g8h9i10j11k12l13m14n15o16p1&quot;&#125;</span><br></pre></td></tr></table></figure>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">clientType=web&amp;Version=&quot;1&quot;&amp;jsonPara=           &#123;&quot;token&quot;:&quot;1a2b3c4d5e6f7g8h9i10j11k12l13m14n15o16p1&quot;&#125;</span><br></pre></td></tr></table></figure>
 
-<h5 id="11-形如“1a2b……16p1”的就是令牌-token-，将其填入cmd-ps1文件中"><a href="#11-形如“1a2b……16p1”的就是令牌-token-，将其填入cmd-ps1文件中" class="headerlink" title="11. 形如“1a2b……16p1”的就是令牌(token)，将其填入cmd/ps1文件中"></a>11. 形如“1a2b……16p1”的就是令牌(token)，将其填入cmd/ps1文件中</h5><blockquote>
+<ol start="11">
+<li>形如“1a2b……16p1”的就是令牌(token)，将其填入cmd/ps1文件中</li>
+</ol>
+<blockquote>
 <p>cmd/ps1文件中“=”号后已有引号，填入时请注意去掉引号</p>
 </blockquote>
-<p>填入形如<code>1a2b3c4d5e6f7g8h9i10j11k12l13m14n15o16p1</code></p>
-<p>而不要填入形如<code>&quot;1a2b3c4d5e6f7g8h9i10j11k12l13m14n15o16p1&quot;</code></p>
-<h5 id="12-最后留在cmd-ps1文件中的形如以下"><a href="#12-最后留在cmd-ps1文件中的形如以下" class="headerlink" title="12.最后留在cmd/ps1文件中的形如以下"></a>12.最后留在cmd/ps1文件中的形如以下</h5><ul>
+<p>  填入形如<code>1a2b3c4d5e6f7g8h9i10j11k12l13m14n15o16p1</code></p>
+<p>  而不要填入形如<code>&quot;1a2b3c4d5e6f7g8h9i10j11k12l13m14n15o16p1&quot;</code></p>
+<p>12.最后留在cmd/ps1文件中的形如以下</p>
+<ul>
 <li><p>ps1文件：<code>$&#123;token&#125;=&quot;1a2b3c4d5e6f7g8h9i10j11k12l13m14n15o16p1&quot;</code></p>
 </li>
 <li><p>cmd文件：<code>set 令牌=&quot;1a2b3c4d5e6f7g8h9i10j11k12l13m14n15o16p1&quot;</code></p>
