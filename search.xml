@@ -98,7 +98,7 @@
 <p>10.此时小窗口2可能会形如下列两种情况，一般是第一种</p>
 <figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">clientType: web</span><br><span class="line">Version: &quot;1&quot;</span><br><span class="line">jsonPara: &#123;&quot;token&quot;:&quot;1a2b3c4d5e6f7g8h9i10j11k12l13m14n15o16p1&quot;&#125;</span><br></pre></td></tr></table></figure>
 
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">clientType=web&amp;Version=&quot;1&quot;&amp;jsonPara=           &#123;&quot;token&quot;:&quot;1a2b3c4d5e6f7g8h9i10j11k12l13m14n15o16p1&quot;&#125;</span><br></pre></td></tr></table></figure>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">clientType=web&amp;Version=&quot;1&quot;&amp;jsonPara=&#123;&quot;token&quot;:&quot;1a2b3c4d5e6f7g8h9i10j11k12l13m14n15o16p1&quot;&#125;</span><br></pre></td></tr></table></figure>
 
 <ol start="11">
 <li>形如“1a2b……16p1”的就是令牌(token)，将其填入cmd/ps1文件中</li>
