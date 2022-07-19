@@ -1,74 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>中考结束</title>
-    <url>/2021/07/06/%E4%B8%AD%E8%80%83%E7%BB%93%E6%9D%9F/</url>
-    <content><![CDATA[<h1 id="中考结束啦！！！"><a href="#中考结束啦！！！" class="headerlink" title="中考结束啦！！！"></a>中考结束啦！！！</h1><h2 id="自主招生也结束啦！！"><a href="#自主招生也结束啦！！" class="headerlink" title="自主招生也结束啦！！"></a>自主招生也结束啦！！</h2><h3 id="可以放松一会啦"><a href="#可以放松一会啦" class="headerlink" title="可以放松一会啦!"></a>可以放松一会啦!</h3>]]></content>
-      <categories>
-        <category>日常</category>
-      </categories>
-      <tags>
-        <tag>学习/study</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>喜加一自动签到</title>
+    <title>【已停止维护】喜加一自动签到脚本</title>
     <url>/2021/08/17/%E5%96%9C%E5%8A%A0%E4%B8%80%E8%87%AA%E5%8A%A8%E7%AD%BE%E5%88%B0/</url>
-    <content><![CDATA[<h3 id="喜加一自动签到脚本"><a href="#喜加一自动签到脚本" class="headerlink" title="喜加一自动签到脚本"></a>喜加一自动签到脚本</h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">项目名称：51喜加一自动签到脚本（基于Windows PowerShell实现）</span><br><span class="line">适用网站：http://www.51xijiayi.com/</span><br><span class="line">作者：bittib01</span><br><span class="line">当前最新版本：v1.0</span><br></pre></td></tr></table></figure>
+    <content><![CDATA[<h2 id="喜加一自动签到脚本"><a href="#喜加一自动签到脚本" class="headerlink" title="喜加一自动签到脚本"></a>喜加一自动签到脚本</h2><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">项目名称：51喜加一自动签到脚本（基于Windows PowerShell实现）</span><br><span class="line">适用网站：http://www.51xijiayi.com/</span><br><span class="line">作者：bittib</span><br><span class="line">当前最新版本：v1.1</span><br></pre></td></tr></table></figure>
 
+<p>由于<a href="http://www.51xijiayi.com/">51喜加一网站</a>已无法正常浏览，本脚本停止维护。</p>
 <p>顾名思义，自动每日签到领取积分</p>
 <span id="more"></span>
 
-<p>教程已包含于zip文件中，但本页面中的教程为最新版本。</p>
+<p>教程已包含于zip文件中。</p>
 <p>下载地址：<br><a href="https://bittib.lanzouo.com/b02itl08j">https://bittib.lanzouo.com/b02itl08j</a><br>密码: <code>fegr</code></p>
-<h3 id="更新日志："><a href="#更新日志：" class="headerlink" title="更新日志："></a>更新日志：</h3><ul>
-<li>v 1.0：进行了精简，正式发布。</li>
-</ul>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">名称: 喜加一签到_v1.0.zip</span><br><span class="line">大小: 9715 字节 (9 KiB)</span><br><span class="line">SHA1: 4E2FA446CDE3ECD81597E4DBA9D81938D33CE07A</span><br></pre></td></tr></table></figure>
+<h3 id="喜加一签到-更新日志："><a href="#喜加一签到-更新日志：" class="headerlink" title="喜加一签到_更新日志："></a>喜加一签到_更新日志：</h3><ul>
+<li><p>v 1.1：</p>
+<p>整理了教程，优化了脚本，停止维护</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">名称: 喜加一签到_v1.1.zip</span><br><span class="line">大小: 9629 字节 (9 KiB)</span><br><span class="line">SHA1: 508ACDB2669A0DBE6DF9A23ADC03CF854FF943F8</span><br></pre></td></tr></table></figure>
 
 <hr>
-<ul>
-<li>v 0.4：<br>修复了一处教程错误，打包了自动化所需文件，同时填补了教程。</li>
+</li>
+<li><p>v 1.0：</p>
+<p>进行了精简，正式发布。</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">名称: 喜加一签到_v1.0.zip</span><br><span class="line">大小: 9715 字节 (9 KiB)</span><br><span class="line">SHA1: 4E2FA446CDE3ECD81597E4DBA9D81938D33CE07A</span><br></pre></td></tr></table></figure></li>
 </ul>
-<hr>
-<ul>
-<li>v 0.3：<br>修复了一个小bug，重新整理了一下，同时填补了教程。</li>
-</ul>
-<hr>
-<ul>
-<li>v 0.2：<br>进行了精简，只留下了完整版与精简版，同时填补了教程。</li>
-</ul>
-<hr>
-<ul>
-<li>v 0.1：<br>创建版本，已拥有大部分功能，但不完善。</li>
-</ul>
-<h3 id="基本教程："><a href="#基本教程：" class="headerlink" title="基本教程："></a>基本教程：</h3><p>1.右键“cmd运行.bat”，选择“编辑(E)”<br>2.选择运行的脚本（默认为完整版），并设置参数（参”参数说明“）<br>3.双击“cmd运行.bat”，即可使用</p>
+<h3 id="基本教程："><a href="#基本教程：" class="headerlink" title="基本教程："></a>基本教程：</h3><p>1.右键“cmd运行.bat”，选择“编辑(E)”</p>
+<p>2.选择运行的脚本（默认为完整版），并设置参数（参《参数说明》）</p>
+<p>3.双击“cmd运行.bat”，即可使用</p>
 <h3 id="参数说明："><a href="#参数说明：" class="headerlink" title="参数说明："></a>参数说明：</h3><ul>
-<li>令牌（token），例：set 令牌=”1a2b3c4d5e6f7g8h9i10j11k12l13m14n15o16p1”【必要参数】<br>此参数一定得填，每次重登陆（重置cookie）后会失效，需要再次设置新的参数。<br>教程单独列了一个文件，参“令牌设置教程.md”</li>
+<li>令牌（token），例：set 令牌=”1a2b3c4d5e6f7g8h9i10j11k12l13m14n15o16p1”【必要参数】<br>此参数一定得填，每次重登陆（重置cookie）后会失效，需要再次设置新的参数。<br>（设置此参数的教程参《令牌设置教程.md》）</li>
+</ul>
+<ul>
 <li>日志路径（logpath），例：set 日志目录=”D:\喜加一签到日志.log”【非必要参数】<br>进行日志记录<br>设置你想要的目录，默认日志生成在”日志“文件夹内<br>若为空白，则不进行日志记录</li>
-<li>休眠（sleep），例：set 是否休眠=”true”【非必要参数】（精简版无此参数）<br>防封号，虽然目前没有发现封号机制<br>若不为空，将休眠1-5秒2次以防封号<br>若为空白，则不进行休眠<br>默认为不休眠</li>
+</ul>
+<ul>
+<li>休眠（sleep），例：set 是否休眠=”true”【非必要参数】（精简版无此参数）<br>防封号，虽然目前没有发现封号机制<br>若不为空，将在签到步骤内共休眠1-5秒2次以防封号<br>若为空白，则不进行休眠<br>默认为不休眠</li>
 </ul>
 <h3 id="版本说明："><a href="#版本说明：" class="headerlink" title="版本说明："></a>版本说明：</h3><ul>
-<li>完整版：包含完整的注释和功能，有控制台输出</li>
-<li>精简版：保留完整的日志功能，不进行控制台输出，适合自动化使用</li>
+<li>完整版：包含注释和完整的功能，有控制台输出</li>
+<li>精简版：保留日志功能，不进行控制台输出，适合自动化使用</li>
 </ul>
 <h3 id="精简版参数说明："><a href="#精简版参数说明：" class="headerlink" title="精简版参数说明："></a>精简版参数说明：</h3><ul>
 <li>$t即$token（令牌）</li>
 <li>$l即$logpath（日志目录）</li>
 </ul>
 <blockquote>
-<p><em><strong>bat文件中设置的参数会覆盖ps1文件中设置的参数</strong></em><br><em><strong>（若要使用ps1文件自定义参数，则不要在bat文件中设置”令牌“参数）</strong></em></p>
+<p><em><strong>.bat文件中设置的参数会覆盖.ps1文件中设置的参数</strong></em><br><em><strong>（若要使用.ps1文件自定义参数，则不要在.bat文件中设置”令牌“参数）</strong></em></p>
 </blockquote>
-<h3 id="文件（夹）说明："><a href="#文件（夹）说明：" class="headerlink" title="文件（夹）说明："></a>文件（夹）说明：</h3><ul>
+<h3 id="自动化文件说明："><a href="#自动化文件说明：" class="headerlink" title="自动化文件说明："></a>自动化文件说明：</h3><ul>
 <li><p>自动化.bat：“cmd运行.bat”的改版，运行的版本为精简版，适合自动化运行，单独运行会弹出窗口，使用自动化时要在其中设置参数</p>
 </li>
 <li><p>自动化静默运行.vbs：无窗口启动“自动化.bat”</p>
-<p>教程单独列了一个文件，参“自动化教程.md”</p>
+<p>自动化教程参《自动化教程.md》</p>
 </li>
 <li><p>自动化所需文件打包：只用里面的3个文件就可以实现静默运行脚本，相当于lite版本，配合自动化教程使用。（简易教程：在“喜加一签到.bat”中设置参数，将“silent.vbs”设为自启）</p>
-<p>使用愉快~</p>
 </li>
 </ul>
+<p>使用愉快~</p>
 <h3 id="令牌设置教程："><a href="#令牌设置教程：" class="headerlink" title="令牌设置教程："></a>令牌设置教程：</h3><p>1.登录<a href="http://www.51xijiayi.com/#/">喜加一网站</a>。</p>
 <p>2.进入开发人员工具（开发者工具）</p>
 <p>  下列提供3种方法</p>
@@ -101,22 +87,22 @@
 <figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">clientType=web&amp;Version=&quot;1&quot;&amp;jsonPara=&#123;&quot;token&quot;:&quot;1a2b3c4d5e6f7g8h9i10j11k12l13m14n15o16p1&quot;&#125;</span><br></pre></td></tr></table></figure>
 
 <ol start="11">
-<li>形如“1a2b……16p1”的就是令牌(token)，将其填入cmd/ps1文件中</li>
+<li>形如“1a2b……16p1”的就是令牌(token)，将其填入.cmd/.ps1文件中</li>
 </ol>
 <blockquote>
-<p>cmd/ps1文件中“=”号后已有引号，填入时请注意去掉引号</p>
+<p>.cmd/.ps1文件中“=”号后已有引号，填入时请注意去掉引号</p>
 </blockquote>
 <p>  填入形如<code>1a2b3c4d5e6f7g8h9i10j11k12l13m14n15o16p1</code></p>
 <p>  而不要填入形如<code>&quot;1a2b3c4d5e6f7g8h9i10j11k12l13m14n15o16p1&quot;</code></p>
-<p>12.最后留在cmd/ps1文件中的形如以下</p>
+<p>12.最后留在.cmd/.ps1文件中的形如以下</p>
 <ul>
-<li><p>ps1文件：<code>$&#123;token&#125;=&quot;1a2b3c4d5e6f7g8h9i10j11k12l13m14n15o16p1&quot;</code></p>
+<li><p>.ps1文件：<code>$&#123;token&#125;=&quot;1a2b3c4d5e6f7g8h9i10j11k12l13m14n15o16p1&quot;</code></p>
 </li>
-<li><p>cmd文件：<code>set 令牌=&quot;1a2b3c4d5e6f7g8h9i10j11k12l13m14n15o16p1&quot;</code></p>
+<li><p>.cmd文件：<code>set 令牌=&quot;1a2b3c4d5e6f7g8h9i10j11k12l13m14n15o16p1&quot;</code></p>
 </li>
 </ul>
 <p>令牌设置完成</p>
-<h3 id="自动化教程："><a href="#自动化教程：" class="headerlink" title="自动化教程："></a>自动化教程：</h3><p>大部分人都可能有自动化需求，因此编写了自动化教程，本教程以Windows 10 为例，使用其他Windows系统（如Windows 11）的用户也可参照此教程。毕竟本脚本基于Windows PowerShell实现，不提供其他系统的教程。（主要是我也不会）</p>
+<h3 id="自动化教程："><a href="#自动化教程：" class="headerlink" title="自动化教程："></a>自动化教程：</h3><p>大部分人都有自动化需求，因此编写了自动化教程，本教程以Windows 10 为例，使用其他Windows系统（如Windows 11）的用户也可参照此教程。</p>
 <h4 id="第一种（推荐）"><a href="#第一种（推荐）" class="headerlink" title="第一种（推荐）:"></a>第一种<em>（推荐）</em>:</h4><ol>
 <li><p>进入“任务计划程序”</p>
 <p>下面提供两种方式</p>
@@ -151,8 +137,8 @@
 </li>
 <li><p>“程序与脚本”设置为“wscript.exe”，“添加参数”设置为“自动化静默运行.vbs“</p>
 <blockquote>
-<p>假如目录为：<code>F:\喜加一签到_发行版_v0.4\自动化\自动化静默运行.vbs</code></p>
-<p>则“起始于”设置为<code>F:\喜加一签到_发行版_v0.4\自动化\</code>（将目录去除自动化静默运行.vbs就好）</p>
+<p>假如目录为：<code>D:\喜加一签到_v1.1\自动化\自动化静默运行.vbs</code></p>
+<p>则“起始于”设置为<code>D:\喜加一签到_v1.1\自动化\</code>（将目录去除自动化静默运行.vbs就好）</p>
 <p>请注意，每个人的目录不同</p>
 </blockquote>
 <p>单击“确定”</p>
@@ -178,7 +164,7 @@
 </li>
 <li><p>按<code>Win+R</code> (按住<code>Win</code>键的同时按下<code>R</code>键 )（<code>Win</code>键一般在<code>Ctrl</code>、<code>Fn</code>键右侧，<code>Alt</code>键左侧）</p>
 </li>
-<li><p>在输入框中输入以下内容（任选其一）（请注意删去两边的反引号“`”，没有反引号请忽略）：</p>
+<li><p>在输入框中输入以下内容（任选其一）：</p>
 <p><code>C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp</code></p>
 <p><code>%programdata%\Microsoft\Windows\Start Menu\Programs\Startup</code></p>
 <p><code>shell:startup</code></p>
